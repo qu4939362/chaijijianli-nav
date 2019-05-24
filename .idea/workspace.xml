@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6efea62d-141a-4b63-a5db-ab8274a41962" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/jl1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/jl2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/lp_new_bottom_company.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/new_wondercv_logo_zh-CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/rx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/you2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/zuo1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/cj.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/cj.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -133,15 +141,15 @@
       <workItem from="1558507312470" duration="8093000" />
       <workItem from="1558569736493" duration="1672000" />
       <workItem from="1558571544507" duration="18206000" />
-      <workItem from="1558656134720" duration="14258000" />
+      <workItem from="1558656134720" duration="14625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42229000" />
+    <option name="totallyTimeSpent" value="42596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14136904" />
